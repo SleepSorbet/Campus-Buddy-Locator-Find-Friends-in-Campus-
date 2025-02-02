@@ -71,3 +71,5 @@ Campus Buddy Finder is a simple and impactful web application designed to help s
 ## Conclusion
 Campus Buddy Finder is a lightweight yet impactful solution for fostering better connectivity among students. With its simple feature set and real-time location-sharing functionality, it provides a valuable tool for easy friend-finding within campus environments.
 
+
+Contribution By Prasad Shaswat & Naina Chauhan
