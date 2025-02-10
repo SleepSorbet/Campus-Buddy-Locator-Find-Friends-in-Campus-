@@ -6,7 +6,7 @@ Below is the **Software Requirements Specification (SRS)** for the **Campus Budd
 
 ### **1. Introduction**
 #### **1.1 Purpose**
-The purpose of the **Campus Buddy Finder** is to provide students with a real-time location-sharing platform to easily locate and connect with friends on campus. The application will include features such as user authentication, real-time location sharing, privacy controls, and interactive map integration.
+The purpose of the **Campus Buddy Finder** is to provide students with a real-time location-sharing platform to easily locate and connect with friends on campus. The application will include features such as user authentication, real-time location sharing, privacy controls, and interactive map google integration.
 
 #### **1.2 Scope**
 The application will be a web-based platform accessible on both desktop and mobile devices. It will use modern technologies like React, Node.js, MongoDB, and Socket.IO to deliver a seamless user experience.
